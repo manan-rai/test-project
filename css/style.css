@@ -126,7 +126,7 @@ a:hover {
 
 /* first section */
 .first_section {
-  background-image: url(/img/background1.png);
+  background-image: url(../img/background1.png);
   background-size: cover;
   background-position: center;
   padding-bottom: 100px;
@@ -178,7 +178,7 @@ a:hover {
 
 /* first section banner */
 .first_section_banner {
-  background-image: url(/img/background2.png);
+  background-image: url(../img/background2.png);
   background-size: cover;
   background-position: center;
   padding: 50px 0px;
@@ -202,7 +202,7 @@ a:hover {
 
 /* second section */
 .second_section {
-  background-image: url(/img/background3.png);
+  background-image: url(../img/background3.png);
   background-size: cover;
   background-position: center;
   padding: 100px 0px;
@@ -226,7 +226,7 @@ a:hover {
 
 /* second section banner */
 .second_section_banner {
-  background-image: url(/img/background4.png);
+  background-image: url(../img/background4.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -276,7 +276,7 @@ a:hover {
 
 /* footer */
 footer {
-  background-image: url(/img/footer-img.png);
+  background-image: url(../img/footer-img.png);
   background-size: cover;
   background-position: center;
   padding: 100px 0px;
@@ -390,7 +390,7 @@ footer .list_title {
     margin: 20px 0px;
   }
   #toggle_list {
-    background: url(/img/nav-img.png);
+    background: url(../img/nav-img.png);
     background-position: center;
     background-size: cover;
     height: 100vh;
